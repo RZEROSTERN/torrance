@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "All work and no play, makes Jack a dull boy" >> donotreadme.txt
 git stage -A
-git commit --date="123 days ago" -m "Updates"
+git commit --date="122 days ago" -m "Updates"
 git push origin master
